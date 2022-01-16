@@ -1,0 +1,2 @@
+UPDATE Postdate on all Woocommerce Product
+UPDATE `wp_posts` SET `post_date`="2021-11-27 20:00:00" WHERE `post_type` LIKE 'product'
